@@ -39,7 +39,7 @@
 
         -   Repeat steps until all incubators are set up
 
-## Experiment Completion (Saturday)
+## Experiment Completion (Wednesday)
 
 -   Remove trays from the incubator and count aphids on each plant
 
@@ -57,7 +57,7 @@
 
         -   File>load protocol data>from file> select matching protocol> OK
 
-        -   File>save protocol data> to file (\*.pro)\...\>choose name matching protocol(remove.pro)>OK
+        -   File>save protocol data> to report>select save to excel file (make sure that all data is in the selected column)\...\>choose name matching protocol(remove.pro)>OK
 
     -   Excel file should open with data
 
